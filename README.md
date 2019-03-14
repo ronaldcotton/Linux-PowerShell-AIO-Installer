@@ -2,6 +2,8 @@
 ### About
 All-In-One Installer for Microsoft's PowerShell *(last checked - PS6.1)* for most linux environments using the preferred Microsoft method.  Installs PS differently via ```/etc/os-release``` in Linux to determine the install method and must be an exact match.  For more details about Powershell under Linux and the preferred methods used for installing, see [Microsoft Docs](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-6) for more details.
 
+These scripts were written for ```/bin/bash``` allowing for high compatilibility.
+
 Both scripts *should* support with the following Linux Distrobutions:
 * CentOS 7
 * RHEL 7

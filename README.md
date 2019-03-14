@@ -4,7 +4,7 @@ All-In-One Installer for Microsoft's PowerShell *(last checked - PS6.1)* for mos
 
 These scripts were written for ```/bin/bash``` allowing for high compatilibility.
 
-Both scripts *should* support with the following Linux Distrobutions:
+Both scripts *should* support under the following Linux Distrobutions:
 * CentOS 7
 * RHEL 7
 * Oracle OS 7

@@ -13,8 +13,7 @@
 #				Debian 8 & 9, Ubuntu 14.04, 16.04, 17.04, 18.04, Kali,
 #				Raspbian & Oracle Linux 7.
 #
-# Script does not install:	unofficial Arch, Ubuntu 18.10, Snap, or
-#							Binary Archives or Preview Releases
+# Script does not install:	unofficial Arch, Ubuntu 18.10, Snap, or Binary Archives
 # 
 # Notes:	Arch is experiemental and therefore not included
 #

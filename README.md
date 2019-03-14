@@ -1,5 +1,5 @@
 # Linux-PowerShell-AIO-Installer
-All-In-One Installer for Microsoft's PowerShell (last checked - PS6.1) for most linux environments using the preferred Microsoft method.  Installs PS differently via ```/etc/os-release``` in Linux to determine the install method and must be an exact match.
+All-In-One Installer for Microsoft's PowerShell *(last checked - PS6.1)* for most linux environments using the preferred Microsoft method.  Installs PS differently via ```/etc/os-release``` in Linux to determine the install method and must be an exact match.
 
 Both scripts *should* support with the following Linux Distrobutions:
 * CentOS 7
@@ -25,15 +25,16 @@ PS=powershell-preview
 #PS="powershell"
 ```
 
-To executable these scripts, simply run:
+To make these executable, simply:
 
 ```bash
 chmod +x *.sh
 
+# Then execute:
 ./InstallAIOPowerShell.sh # or
 ./RemoveAIOPowerShell.sh
 ```
 
-*Note: These scripts have only been tested for CentOS 7 and other OS's have been added for completeness.*
+*Note: These scripts tested on CentOS 7 and **UNTESTED** on all other Linux Distros. Other distrobutions were included for completeness.*
 
 **Under MIT License, Enjoy!**

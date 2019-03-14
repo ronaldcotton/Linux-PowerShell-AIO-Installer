@@ -10,6 +10,6 @@ chmod +x *.sh
 ./RemoveAIOPowerShell.sh
 ```
 
-Note: These scripts have only been tested for CentOS 7 and other OS's have been added for completeness.
+*Note: These scripts have only been tested for CentOS 7 and other OS's have been added for completeness.*
 
 **Under MIT License, Enjoy!**

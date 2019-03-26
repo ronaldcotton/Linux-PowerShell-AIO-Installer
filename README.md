@@ -40,6 +40,19 @@ chmod +x *.sh
 ./RemoveAIOPowerShell.sh
 ```
 
+Or simply:
+```bash
+wget -O - https://raw.githubusercontent.com/ronaldcotton/Linux-PowerShell-AIO-Installer/master/InstallAIOPowerShell.sh | sudo bash
+```
+... to install and .... 
+```bash
+wget -O - https://raw.githubusercontent.com/ronaldcotton/Linux-PowerShell-AIO-Installer/master/RemoveAIOPowerShell.sh | sudo bash
+```
+to uninstall.
+
 *Note: These scripts tested on CentOS 7 and **UNTESTED** on all other Linux Distros. Other distrobutions were included for completeness.*
 
 **Under MIT License, Enjoy!**
+
+
+Related Links: [Thomas Maurer - Blog Post about Installing PS6 - One-liner](https://www.thomasmaurer.ch/2019/03/how-to-install-and-update-powershell-6/#comment-725269)
